@@ -1,0 +1,1 @@
+# Quine-McCluskey-Method-2---10-variables-
