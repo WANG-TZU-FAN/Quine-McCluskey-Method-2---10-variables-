@@ -6,7 +6,7 @@ Description
 2. Show the "prime implicant chart" and the "final result in minimum SOP".  
 
 
-Five given input files of the E14061313_2: 
+Five given input files : 
 
 (1) 10_Variable_Test.txt
 
@@ -39,37 +39,20 @@ Cygwin Ver. 2.905, OS: Win10, 64-bit
 
 Compilation Guide
 ------------------
-1. File name "Execution_File" 
 
-   A. Contains "E14061313_Logic_System_QM.exe" for exeution.
-   
-   B. Contains "4_Variable_Test.txt", "8_Variable_Test.txt", "9_Variable_Test.txt", 
-      "10_Variable_Test.txt", "filein.txt" for inputdata.
-      
-   C. Key in "./E14061313_Logic_System_QM.exe" to implement the Quine-McCluskey process.
-   
-   D. Choose the option to input the file.
-   
-   E. Key in "5" for executing specific input files.
-      => ex. Key in "filein.txt"
-      
-   F. Key in "1", "2", "3" ,"4" for executing data in the file "Execution_file". 
-
-2. File name "Source_Code" 
-
-   A. Contains "Makefile" for combination.
+(1) Contains "Makefile" for combination.
 	"QM.h" for algorithms in Quine-McCluskey method.
 	"QM.cpp" for main function. 
 	
-   B. Enter "make" to create an execution file named "E14061313_Logic_System_QM.exe"
+(2) Enter "make" to create an execution file named "E14061313_Logic_System_QM.exe"
    
-   C. Also create object files "QM.o".
+(3) Also create object files "QM.o".
    
-   D. Key in "./E14061313_Logic_System_QM.exe" to implement the Quine-McCluskey process.
+(4) Key in "./E14061313_Logic_System_QM.exe" to implement the Quine-McCluskey process.
    
-   E. Choose the option to input the file.
+(5) Choose the option to input the file.
    
-   F. Key in "5" for executing specific input files.
-      => ex. Key in "filein.txt"
+(6) Key in "5" for executing specific input files.
+	=> ex. Key in "filein.txt"
       
-   G. Key in "1", "2", "3" ,"4" for executing data in the file "Execution_file". 
+(7) Key in "1", "2", "3" ,"4" for executing data in the file "Execution_file". 
