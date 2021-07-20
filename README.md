@@ -7,26 +7,34 @@ Description
 
 
 Five given input files of the E14061313_2: 
+
 (1) 10_Variable_Test.txt
+
 (2) 9_Variable_Test.txt
+
 (3) 8_Variable_Test.txt
+
 (4) 4_Variable_Test.txt
+
 (5) filein.txt
 
 
 Bonus
 --------------------
 (1) My code can execute 2 - 10 variables
+
 (2) Adorable Interface :)
 
 
 Platform information
 --------------------
 Visual Studio 2013
+
 &
+
 Cygwin Ver. 2.905, OS: Win10, 64-bit
-(Some option may cause core dumped,
- but there's no problem executed by visual studio)
+
+(Some option may cause core dumped, but there's no problem executed by visual studio)
 
 
 Compilation Guide
